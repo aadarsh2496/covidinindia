@@ -1,6 +1,6 @@
 {
-  "homepage": "http://aadarsh2496.github.io/covidIndiaStats",
-  "name": "covidIndiaStats",
+  "homepage": "http://aadarsh2496.github.io/covidindia",
+  "name": "covidindia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
