@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e05169bef72a65649120628217149379",
+    "revision": "6d7ec58c9a38e45e1d6ca40c926a928a",
     "url": "/covidinindia/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidinindia/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "eb18e34999c1837fd573",
+    "revision": "bd8fcb90fd1f9f0bce75",
     "url": "/covidinindia/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covidinindia/static/js/2.3fcc2f48.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb18e34999c1837fd573",
-    "url": "/covidinindia/static/js/main.038904d1.chunk.js"
+    "revision": "bd8fcb90fd1f9f0bce75",
+    "url": "/covidinindia/static/js/main.604675d8.chunk.js"
   },
   {
     "revision": "748a7c46de78ce202cbc",
