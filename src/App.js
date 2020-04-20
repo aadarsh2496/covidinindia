@@ -84,9 +84,6 @@ style={{ margin: "10px" }}
     <Card.Text>
       Total: {latest.cases}
     </Card.Text>
-    <Card.Text>
-      Today's Cases Resported: {latest.todayCases}
-    </Card.Text>
   </Card.Body>
   <Card.Footer>
     <small>Last updated: {formatDate(latest.updated)}.</small>
@@ -102,9 +99,6 @@ style={{ margin: "10px" }}
     <Card.Title>India Deaths</Card.Title>
     <Card.Text>
       Total Deaths: {latest.deaths}
-    </Card.Text>
-    <Card.Text>
-      Today's Deaths Resported: {latest.todayDeaths}
     </Card.Text>
   </Card.Body>
   <Card.Footer>
