@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covidinindia/static/css/main.d1b05096.chunk.css",
+    "main.js": "/covidinindia/static/js/main.038904d1.chunk.js",
+    "main.js.map": "/covidinindia/static/js/main.038904d1.chunk.js.map",
+    "runtime-main.js": "/covidinindia/static/js/runtime-main.439159fc.js",
+    "runtime-main.js.map": "/covidinindia/static/js/runtime-main.439159fc.js.map",
+    "static/css/2.69121389.chunk.css": "/covidinindia/static/css/2.69121389.chunk.css",
+    "static/js/2.3fcc2f48.chunk.js": "/covidinindia/static/js/2.3fcc2f48.chunk.js",
+    "static/js/2.3fcc2f48.chunk.js.map": "/covidinindia/static/js/2.3fcc2f48.chunk.js.map",
+    "index.html": "/covidinindia/index.html",
+    "precache-manifest.1b8c36f915b07bcbf03719659d465e3c.js": "/covidinindia/precache-manifest.1b8c36f915b07bcbf03719659d465e3c.js",
+    "service-worker.js": "/covidinindia/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/covidinindia/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/covidinindia/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3fcc2f48.chunk.js.LICENSE.txt": "/covidinindia/static/js/2.3fcc2f48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439159fc.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.3fcc2f48.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.038904d1.chunk.js"
+  ]
+}
